@@ -37,6 +37,8 @@ Community powers
 
  - [996.LIST](https://github.com/fengT-T/996_list) A rank list of 996 companies and 955 companies.
 
+ - [996.SI](https://github.com/H-baoxian/996.SI) is a repo that collects questions about social insurance and labor disputes between employees and businesses.
+
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally out of control.  
